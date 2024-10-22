@@ -26,6 +26,10 @@ Click the "Start" button to start the stopwatch.
 ### Stop:
 Click the "Stop" button to pause the stopwatch.
 
+## Access the Demo
+
+Check out the live demo [here]( https://puskuriharish.github.io/SCT_WD_2/).
+
 ### Lap:
 Click the "Lap" button to record lap times while the stopwatch is running.
 
